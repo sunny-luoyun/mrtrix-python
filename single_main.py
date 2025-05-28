@@ -60,7 +60,6 @@ def generic_option(input_path, func):
         else:
             continue
 
-
 def menu():
     """显示菜单"""
     print("\n======== 以下是dwi单一处理界面 ========")
