@@ -1,2 +1,16 @@
 .DS_Store
 .DS_Store
+.DS_Store
+/__pycache__
+/__pycache__
+/__pycache__
+__pycache__/complex_main.cpython-310.pyc
+.DS_Store
+/__pycache__
+__pycache__/confiber.cpython-310.pyc
+__pycache__/dt_r.cpython-310.pyc
+__pycache__/FoD.cpython-310.pyc
+__pycache__/fsl_cut.cpython-310.pyc
+__pycache__/preprocess.cpython-310.pyc
+__pycache__/roimap.cpython-310.pyc
+__pycache__/single_main.cpython-310.pyc
